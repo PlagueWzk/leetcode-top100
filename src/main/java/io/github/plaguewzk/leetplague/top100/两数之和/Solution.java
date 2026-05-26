@@ -1,4 +1,4 @@
-package io.github.plaguewzk.leetplague.两数之和;
+package io.github.plaguewzk.leetplague.top100.两数之和;
 
 import java.util.HashMap;
 

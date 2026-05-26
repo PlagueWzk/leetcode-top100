@@ -1,4 +1,4 @@
-package io.github.plaguewzk.leetplague.盛最多水的容器;
+package io.github.plaguewzk.leetplague.top100.盛最多水的容器;
 
 /**
  * Created on 2026/5/21 15:25

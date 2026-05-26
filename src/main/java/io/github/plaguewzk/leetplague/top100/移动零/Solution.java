@@ -1,4 +1,4 @@
-package io.github.plaguewzk.leetplague.移动零;
+package io.github.plaguewzk.leetplague.top100.移动零;
 
 import java.util.Arrays;
 import java.util.LinkedList;

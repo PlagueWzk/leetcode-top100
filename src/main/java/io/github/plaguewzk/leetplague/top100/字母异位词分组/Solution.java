@@ -1,4 +1,4 @@
-package io.github.plaguewzk.leetplague.字母异位词分组;
+package io.github.plaguewzk.leetplague.top100.字母异位词分组;
 
 import java.util.*;
 

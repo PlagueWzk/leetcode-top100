@@ -1,4 +1,4 @@
-package io.github.plaguewzk.leetplague.最长连续序列;
+package io.github.plaguewzk.leetplague.top100.最长连续序列;
 
 import java.util.Collections;
 import java.util.HashSet;
